@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**GeancarloD96/GeancarloD96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github.com/GeancarloD96/imagen/blob/main/Geancarlo%20Delgado.jpeg" />
+</p>
 
-Here are some ideas to get you started:
+```js
+import SoftwareDeveloper from 'GeancarloDelgado';
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class Bio extends SoftwareDeveloper {
+  name     = 'Geancarlo Delgado';
+  title    = 'Software  Developer';
+  location = 'Guayaquil, EC';
+}
+
+class Skills extends SoftwareDeveloper {
+  languages  = ['JavaScript', 'PHP'];
+  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
+  frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
+}
+```
+
