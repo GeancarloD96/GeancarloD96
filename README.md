@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello my name is Geancarlo Delgado Welcome to my profile, if you imagine it you can program it greetings! 👋
 
 <p align="center">
   <img src="https://github.com/GeancarloD96/imagen/blob/main/Geancarlo%20Delgado.jpeg" />
@@ -14,9 +14,9 @@ class Bio extends SoftwareDeveloper {
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'PHP'];
-  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
-  frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
+  languages  = ['JavaScript', 'PHP', 'Pyhton', 'C#'. 'Dart'];
+  databases  = ['MySQL', 'MongoDB', 'PostgreSQL', 'SQLServer'];
+  frameworks = ['React', 'React Native', 'Angular', 'Django'];
 }
 ```
 
